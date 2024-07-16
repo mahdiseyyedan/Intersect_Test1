@@ -3,4 +3,4 @@ b = 3
 
 a = b
 print ("a = ", a)
-print("How you doing?")
+print("How you doing?", a)
